@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0aa064b0-0731-48a3-881d-b86e94f03919" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Admin/AdminCSS.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Admin/suaduan.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/Admin/Admin.html" afterPath="$PROJECT_DIR$/src/Admin/Admin.html" />
+      <change beforePath="$PROJECT_DIR$/src/Admin/ManagerEmployees/ManagerEmployees.html" afterPath="$PROJECT_DIR$/src/Admin/ManagerEmployees/ManagerEmployees.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +21,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Layout/Footer/Footer.html">
+      <file leaf-file-name="Admin.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Admin/Admin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="48" column="0" lean-forward="false" selection-start-line="43" selection-start-column="33" selection-end-line="48" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Themmoiduan.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Admin/Themmoiduan.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ManagerEmployees.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Admin/ManagerEmployees/ManagerEmployees.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="66" column="34" lean-forward="false" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateEmployee.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Admin/CreateEmployee/CreateEmployee.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
@@ -27,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Header.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Layout/Header/Header.html">
+      <file leaf-file-name="suaduan.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Admin/suaduan.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="459">
+              <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -44,6 +78,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="Class" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -69,7 +104,6 @@
         <option value="$PROJECT_DIR$/src/InformationProject/ProjectDetails/a.java" />
         <option value="$PROJECT_DIR$/src/Admin/a.java" />
         <option value="$PROJECT_DIR$/src/Admin/ManagerEmployees/b.java" />
-        <option value="$PROJECT_DIR$/src/Admin/Admin.html" />
         <option value="$PROJECT_DIR$/src/Layout/a.java" />
         <option value="$PROJECT_DIR$/src/Layout/Header/b.java" />
         <option value="$PROJECT_DIR$/src/Transaction/b.java" />
@@ -81,11 +115,15 @@
         <option value="$PROJECT_DIR$/src/Transaction/Saved/Saved.html" />
         <option value="$PROJECT_DIR$/src/Transaction/Statistical/StatisticalTransaction.html" />
         <option value="$PROJECT_DIR$/src/Admin/CreateEmployee/CreateEmployee.html" />
-        <option value="$PROJECT_DIR$/src/Admin/ManagerEmployees/ManagerEmployees.html" />
         <option value="$PROJECT_DIR$/src/Admin/Statistical/Statistical.html" />
         <option value="$PROJECT_DIR$/src/Layout/Footer/Footer.html" />
         <option value="$PROJECT_DIR$/src/Layout/Header/Header.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Admin/AdminCSS.css" />
+        <option value="$PROJECT_DIR$/src/Admin/ManagerEmployees/ManagerEmployees.html" />
+        <option value="$PROJECT_DIR$/src/Admin/Statistical/Themmoiduan.html" />
+        <option value="$PROJECT_DIR$/src/Admin/suaduan.html" />
+        <option value="$PROJECT_DIR$/src/Admin/Admin.html" />
       </list>
     </option>
   </component>
@@ -95,7 +133,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -117,51 +155,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="UI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstReal_UI" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend-web-firstreal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstReal_UI" type="462c0819:PsiDirectoryNode" />
-              <item name="Image" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstReal_UI" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstReal_UI" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Layout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstReal_UI" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Layout" type="462c0819:PsiDirectoryNode" />
-              <item name="Footer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstReal_UI" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Layout" type="462c0819:PsiDirectoryNode" />
-              <item name="Header" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend-web-firstreal" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-4.0.0" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,12 +185,17 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/HocvienCNTT/Project_Web/story.json" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="InformationProject" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\khoaluan\frontend-web-firstreal\src\Admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DTU\Khóa Luận\Project\src\InformationProject\ProjectTypes" />
+      <recent name="E:\DTU\Khóa Luận\Project\src\InformationProject\ProjectDetails" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Transaction.Payment" />
@@ -186,9 +204,8 @@
       <recent name="Admin.ManagerEmployees" />
       <recent name="InformationProject.TypesProject" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\DTU\Khóa Luận\Project\src\InformationProject\ProjectTypes" />
-      <recent name="E:\DTU\Khóa Luận\Project\src\InformationProject\ProjectDetails" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="InformationProject" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -245,6 +262,7 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="Admin.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/UI/UI_Web/Admin/Admin.html" />
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -297,6 +315,11 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Admin.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -317,14 +340,21 @@
       <workItem from="1520824609419" duration="789000" />
       <workItem from="1520825447809" duration="2096000" />
       <workItem from="1520837067001" duration="729000" />
+      <workItem from="1520842530357" duration="59000" />
+      <workItem from="1520864343201" duration="2147000" />
+      <workItem from="1520934369771" duration="3417000" />
+      <workItem from="1520943141109" duration="845000" />
+      <workItem from="1521038628682" duration="975000" />
+      <workItem from="1523351836397" duration="4301000" />
+      <workItem from="1523376935326" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5145000" />
+    <option name="totallyTimeSpent" value="16899000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -366,11 +396,72 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Admin/ManagerEmployees/ManagerEmployees.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Admin/Admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Admin/AdminCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Admin/ManagerEmployees/ManagerEmployees.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="28" lean-forward="false" selection-start-line="45" selection-start-column="28" selection-end-line="46" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Admin/Admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Admin/AdminCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Admin/ManagerEmployees/ManagerEmployees.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="28" lean-forward="false" selection-start-line="45" selection-start-column="28" selection-end-line="46" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Admin/Admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Layout/Footer/Footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -378,7 +469,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Layout/Footer/Footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Layout/Header/Header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -421,25 +525,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Admin/Statistical/b.java" />
-    <entry file="file://$PROJECT_DIR$/src/Admin/Admin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Layout/Footer/b.java" />
     <entry file="file://$PROJECT_DIR$/src/Layout/Header/a.java" />
     <entry file="file://$PROJECT_DIR$/src/Transaction/Payment/b.java" />
     <entry file="file://$PROJECT_DIR$/src/Transaction/Statistical/c.java" />
     <entry file="file://$PROJECT_DIR$/src/HomePage/HomePage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Login/Login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
@@ -467,17 +557,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Admin/CreateEmployee/CreateEmployee.html">
+    <entry file="file://E:/HocvienCNTT/Project_Web/story.json" />
+    <entry file="file://E:/HocvienCNTT/Project_Web/home.js" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Layout/Header/Header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Login/Login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Admin/ManagerEmployees/ManagerEmployees.html">
+    <entry file="file://$PROJECT_DIR$/src/Layout/Footer/Footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4.0.0/_data/colors.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4.0.0/_data/examples.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4.0.0/_data/nav.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Admin/AdminCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -488,21 +625,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/HocvienCNTT/Project_Web/story.json">
+    <entry file="file://$PROJECT_DIR$/src/Admin/suaduan.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="23" selection-end-column="34" />
+        <state relative-caret-position="459">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/HocvienCNTT/Project_Web/home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1808">
-          <caret line="185" column="22" lean-forward="true" selection-start-line="185" selection-start-column="22" selection-end-line="185" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Layout/Footer/Footer.html">
+    <entry file="file://$PROJECT_DIR$/src/Admin/CreateEmployee/CreateEmployee.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
@@ -510,21 +641,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/Admin/Admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="43" selection-start-column="33" selection-end-line="48" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Layout/Header/Header.html">
+    <entry file="file://$PROJECT_DIR$/src/Admin/Themmoiduan.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="510">
+          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Admin/ManagerEmployees/ManagerEmployees.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="66" column="34" lean-forward="false" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
           <folding />
         </state>
       </provider>
